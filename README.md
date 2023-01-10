@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/aditya-fw)
+
+<img align="left" src="https://github-readme-stats-five-steel.vercel.app/api?username=aditya-fw&show_icons=true&theme=gotham&hide=issues&count_private=true&" alt="aditya-fw" />
+
 <!--
 **aditya-fw/aditya-fw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
